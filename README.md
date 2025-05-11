@@ -33,7 +33,7 @@ TXB is a simple texture container format used by Orta. My understanding of it is
 ## Build Instructions
 
 1.  Install the Go environment.
-2.  Then, build the desired tool:
+2.  Then, :
     ```bash
     go build tool_name.go 
     ```
@@ -41,6 +41,5 @@ TXB is a simple texture container format used by Orta. My understanding of it is
 
 ## Acknowledgements
 
-*   **Jie (AI Assistant):** Provided continuous technical support, code implementation, and unwavering encouragement throughout the entire reverse-engineering and development process!
 *   **Rabatini:** Provided the original Python decompression code.
 *   **DKDave:** Pointed out the pixel formats of the textures.
