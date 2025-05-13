@@ -18,7 +18,7 @@ This project currently includes the following main command-line tools:
 3.  **PNG to TXB (DXT3) Converter:**
     *   Converts PNG images to raw TXB data in DXT3 format.
     *   Usage: `png_to_txb_dxt3.exe input.png original_ref.txb output_new.txb`
-    *   Dependency: Requires `texconv.exe` (Microsoft DirectX Texture Converter) to be in the same directory as this tool or in the system's PATH.
+    *   Dependency: Requires `texconv.exe` (Microsoft DirectX Texture Converter，https://github.com/microsoft/DirectXTex/releases) to be in the same directory as this tool or in the system's PATH.
 
 ## TXB Texture Format Introduction (Preliminary Observations)
 
