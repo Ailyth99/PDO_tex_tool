@@ -1,8 +1,8 @@
 ## Panzer Dragoon Orta: Compressed Data & TXB Texture Tools.
 
 command-line tools for handling TXB texture formats used in Panzer Dragoon Orta (Original Xbox), with a particular focus on its PCMP (a variant of LZSS) compression scheme.
-![](https://pic1.imgdb.cn/item/6875283f58cb8da5c8adc4d4.png)
-![](https://pic1.imgdb.cn/item/6875288658cb8da5c8adc4f6.png)
+![](https://pic1.imgdb.cn/item/683ebd3358cb8da5c828f8f7.png)
+![](https://pic1.imgdb.cn/item/6875288658cb8da5c8adc4f6.png)<br>
 This project currently includes the following main command-line tools:
 
 1.  **PCMP Decompressor:**
